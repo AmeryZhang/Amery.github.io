@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amery私のBlog</title>
+  
+  <subtitle>Stay Hungry, Stay Foolish</subtitle>
+  <link href="ameryzhang.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ameryzhang.github.io.git/"/>
+  <updated>2020-06-30T09:22:02.160Z</updated>
+  <id>http://ameryzhang.github.io.git/</id>
+  
+  <author>
+    <name>Amery Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>凡所过往，皆为序章</title>
+    <link href="http://ameryzhang.github.io.git/2020/06/30/test1/"/>
+    <id>http://ameryzhang.github.io.git/2020/06/30/test1/</id>
+    <published>2020-06-30T09:17:00.000Z</published>
+    <updated>2020-06-30T09:22:02.160Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://ameryzhang.github.io.git/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://ameryzhang.github.io.git/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://ameryzhang.github.io.git/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我于杀戮之中绽放，一如黎明中的花朵</title>
+    <link href="http://ameryzhang.github.io.git/2020/06/30/test2/"/>
+    <id>http://ameryzhang.github.io.git/2020/06/30/test2/</id>
+    <published>2020-06-30T09:17:00.000Z</published>
+    <updated>2020-06-30T09:24:35.726Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://ameryzhang.github.io.git/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://ameryzhang.github.io.git/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://ameryzhang.github.io.git/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ameryzhang.github.io.git/2020/06/28/helloworld/"/>
+    <id>http://ameryzhang.github.io.git/2020/06/28/helloworld/</id>
+    <published>2020-06-28T08:30:07.249Z</published>
+    <updated>2020-06-28T08:30:07.249Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
